@@ -1,0 +1,3 @@
+/home/wsnc2333/桌面/hw/build/CMakeFiles/main.dir
+/home/wsnc2333/桌面/hw/build/CMakeFiles/edit_cache.dir
+/home/wsnc2333/桌面/hw/build/CMakeFiles/rebuild_cache.dir
